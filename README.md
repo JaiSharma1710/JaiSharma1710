@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jai Sharam</h1>
+<h1 align="center">Hi 👋, I'm Jai Sharma</h1>
 <h3 align="center">I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with 2 years of hands-on experience in crafting robust and scalable web applications.</h3>
+
+- 🌱 I’m currently learning **Data structures and algorithms**
 
 - 💬 Ask me about **ReactJS, NextJs, MongoDB, Nodejs, JavaScript**
 
